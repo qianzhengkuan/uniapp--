@@ -1,0 +1,1 @@
+<view class="nothing u-f-ajc animated fadeIn" style="{{(getStyle)}}"><image style="width:350rpx;height:350rpx;" src="/static/common/nothing.png"></image><view class="text-center pt-1 font-md text-light-black">什么都没有</view></view>

@@ -1,0 +1,6 @@
+{
+  "component": true,
+  "usingComponents": {
+    "f-image": "/components/common/f-image"
+  }
+}

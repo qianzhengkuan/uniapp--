@@ -1,0 +1,9 @@
+
+.uni-swiper-tab{
+	border-bottom: 1rpx solid #EEEEEE;
+}
+.swiper-tab-list{
+	color: #333333;
+	font-weight: bold;
+}
+

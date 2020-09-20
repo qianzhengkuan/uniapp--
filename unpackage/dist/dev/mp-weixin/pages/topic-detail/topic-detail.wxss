@@ -1,0 +1,5 @@
+
+.add-btn{
+	position: fixed;z-index: 100;right: 35rpx;bottom: 35rpx;width: 120rpx;height: 120rpx;
+}
+

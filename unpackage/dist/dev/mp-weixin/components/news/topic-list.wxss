@@ -1,0 +1,9 @@
+
+.topic-list image.data-v-1d5a7266{
+	width: 150rpx;
+	height: 150rpx;
+}
+.topic-list>view>view.data-v-1d5a7266:first-child{
+	font-size: 32rpx;
+}
+

@@ -1,0 +1,15 @@
+
+.topic-nav>view.data-v-5bb800c4:first-child{
+	margin-bottom: 10rpx;
+}
+.topic-nav>view:first-child>view.data-v-5bb800c4:first-child{
+	color: #333333;
+	font-size: 32rpx;
+}
+.topic-nav>view:last-child>view.data-v-5bb800c4{
+	-webkit-box-flex: 1;
+	-webkit-flex: 1;
+	        flex: 1;
+	margin: 0 10rpx;
+}
+

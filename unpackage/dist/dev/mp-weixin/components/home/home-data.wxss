@@ -1,0 +1,8 @@
+
+.home-data.data-v-2c6dceba{ 
+	padding: 20rpx 40rpx;
+}
+.home-data>view>view.data-v-2c6dceba{
+	font-size: 32rpx;
+} 
+

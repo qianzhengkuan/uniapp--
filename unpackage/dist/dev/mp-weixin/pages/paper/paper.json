@@ -1,0 +1,10 @@
+{
+  "enablePullDownRefresh": true,
+  "navigationBarTitleText": "消息",
+  "usingComponents": {
+    "uni-nav-bar": "/components/uni-nav-bar/uni-nav-bar",
+    "uni-popup": "/components/common/uni-popup",
+    "paper-list": "/components/paper/paper-list",
+    "no-thing": "/components/common/no-thing"
+  }
+}

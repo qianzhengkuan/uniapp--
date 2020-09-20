@@ -1,0 +1,7 @@
+{
+  "component": true,
+  "usingComponents": {
+    "tag-sex-age": "/components/common/tag-sex-age",
+    "f-image": "/components/common/f-image"
+  }
+}
